@@ -1,0 +1,18 @@
+Welcome, Adventurer.
+
+Unnamed Modpack 1.0.0 is here.
+
+Initial release.
+
+Added:
+- Exploration-focused gameplay
+- RPG progression systems
+- Magic and technology foundations
+- Performance optimizations
+- Quality of life improvements
+
+Known:
+- The pack is still actively being developed
+- Balance changes may happen in future updates
+
+Thank you for playing Unnamed Modpack.
