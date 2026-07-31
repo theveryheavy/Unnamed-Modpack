@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "releaseType": "alpha",
+
+  "links": {
+    "modrinth": "https://modrinth.com/project/unnamed_modpack",
+    "github": "https://github.com/theveryheavy/Unnamed-Modpack"
+  },
+
+  "changelog": "changelog/0.0.1.md"
+}
